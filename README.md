@@ -8,6 +8,49 @@ TrollStore is a permasigned jailed app that can permanently install any IPA you 
 TrollStore is a permasigned jaild app allowing users to install any iPA files permanently. Trollstore uses the AMFI/CoreTrust bug to sign the IPA files. This will support iOS 14.2 beta 2  - iOS 16.6.1, 16.7 RC iOS 17.0, and iOS 17.0.1 (Theoretically).
 Also iOS 16.7.x (excluding 16.7 RC) and 17.0.1+ will NEVER be supported because that AMFI/CoreTrust bug was fixed on that versions)
 
+*TrollHelperOTA:* Install a TrollHelper app via Safari, then use it to install TrollStore. 
+*TrollInstallerX:* Install a TrollInstallerX .ipa file to the device using Sideloadly, then use it to install TrollStore.
+*TrollInstallerMDC:* Install a TrollInstallerMDC .ipa file using Sideloadly and install TrollStore.
+*TrollMisaka:* Install a TrollMisaka .ipa file via Sideloadly and install TrollStore using a special keyboard method.
+*TrollRestore:* Inject a TrollStore Helper into a device from a macOS, Windows, or Linux computer. 
+*TrollHelper:* Install a TrollStore Helper package using a package manager on a jailbroken device.
+
+
+You can use the following methods to install TrollStore on your iOS device. This will vary depending on your iOS version and device.
+
+### TrollHelperOTA (for iOS 14.0 beta 2 – 15.6.1) 
+
+Visit the TrollHelperOTA webpage via Safari. An app called "GTA Car Tracker" will be installed. Opening this will install TrollStore.
+
+### TrollInstallerX (for iOS 14.0 – 16.6.1, 17.0 beta 1 – 17.0) 
+
+Install the TrollInstallerX .ipa file to your device using Sideloadly. 
+Open the app and select "Install TrollStore". TrollStore will be installed after the device restarts.
+
+### TrollInstallerMDC (for iOS 15.5 – 15.7.1)
+
+ Install the TrollInstallerMDC .ipa file using Sideloadly. Open the "Tips" app and select "Install TrollStore". TrollStore will be installed after the device restarts.​
+
+### TrollMisaka (for iOS 15.7.2 – 15.8.4) 
+
+Install the TrollMisaka .ipa file via Sideloadly. Open the app, then go to "Settings" > "General" > "Keyboard" > "Keyboards" > "Add New Keyboard..." after you've backed out.
+
+"TrollMisaka" and enable "Allow Full Access." Reopen the TrollMisaka app and restart the device.
+
+### TrollRestore (for iOS 16.7 RC, 17.0 beta 1 – 17.0) 
+
+Download and unzip the TrollRestore .zip file to your computer. Connect your iOS device to your computer and run TrollRestore. TrollStore will install after the device restarts.
+### TrollHelper (for Jailbroken devices) 
+Open a package manager like Sileo, Zebra, or Cydia. 
+Add the "https://havoc.app" 
+repository and install the TrollHelper package. TrollStore will be installed after the device restarts.
+
+## What you can do using TrollStore
+Install apps without jailbreaking: You can install apps that are not available through the App Store using TrollStore.
+
+## How to Uninstalling an app
+Apps installed from TrollStore can only be uninstalled from TrollStore itself, tap an app or swipe it to the left in the 'Apps' tab to delete it.
+
 
 
 
